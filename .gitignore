@@ -1,0 +1,5 @@
+# ignore all raw data
+data/
+# ignore jn checkpoint logs
+.ipynb_*/
+DS_Store
